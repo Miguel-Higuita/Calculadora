@@ -30,5 +30,5 @@
     <include
         layout="@layout/buttons_layout"
         android:layout_width="match_parent"
-        android:layout_height="373dp" />
+        android:layout_height="586dp" />
 </LinearLayout>
